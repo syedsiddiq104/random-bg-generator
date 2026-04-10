@@ -22,8 +22,6 @@ https://syedsiddiq104.github.io/random-bg-generator/
 - The number is converted into a HEX color format
 - The background color updates dynamically on button click
 
-## 📸 Preview
-(Add a screenshot here)
 
 ##  Installation
 1. Clone the repository
